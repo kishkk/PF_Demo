@@ -10,10 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("It's a beginning!");
-            Console.WriteLine("Helloworld");
-
-            Console.WriteLine("Test");
+            Console.WriteLine("It's a beginning for Partner form deskotp appication!");
         }
     }
 }
