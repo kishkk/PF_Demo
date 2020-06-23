@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("It's a beginning for Partner form deskotp appication!");
+            Console.WriteLine("It's a beginning for Partner form deskotp appication!-branch1");
         }
     }
 }
